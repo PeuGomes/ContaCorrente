@@ -1,0 +1,15 @@
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.csproj.AssemblyReference.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.AssemblyInfoInputs.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.AssemblyInfo.cs
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.csproj.CoreCompileInputs.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\bin\Debug\net6.0\bancoOnline.exe
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\bin\Debug\net6.0\bancoOnline.deps.json
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\bin\Debug\net6.0\bancoOnline.runtimeconfig.json
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\bin\Debug\net6.0\bancoOnline.dll
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\bin\Debug\net6.0\bancoOnline.pdb
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.dll
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\refint\bancoOnline.dll
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.pdb
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\bancoOnline.genruntimeconfig.cache
+C:\Users\Peu_o\Desktop\PROJETOS C#\projetobanco\bancoOnline\bancoOnline\obj\Debug\net6.0\ref\bancoOnline.dll
